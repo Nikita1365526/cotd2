@@ -41,7 +41,7 @@ $_SESSION['item'][3]['rank'] = 4;
 $_SESSION['item'][3]['caption'] = 'Auckland Cat';
 $_SESSION['item'][3]['trivia'] = "<p>My name is Ponsonby and I live in Auckland. I made a satellite launch vehicle using a ball of wool, 3 paper clips and a tub of bees wax. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can build a mud brick metropolis together.</p>";
 $_SESSION['item'][3]['theme'] = 'cats';
-$_SESSION['item'][3]['filename'] = 'data/images/cats/auckland.jpg';
+$_SESSION['item'][3]['filename'] = 'data/images/pets/billy.jpg';
 $_SESSION['item'][3]['rating'] = 0;
 
 $_SESSION['item'][4]['name'] = 'sydney';
