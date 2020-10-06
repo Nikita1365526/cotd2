@@ -86,7 +86,7 @@ $_SESSION['item'][8]['rating'] = 0;
 
 $_SESSION['item'][9]['name'] = 'christchurch';
 $_SESSION['item'][9]['rank'] = 10;
-$_SESSION['item'][9]['caption'] = 'Christchurch Cat';
+$_SESSION['item'][9]['caption'] = 'Christchurch Cat ';
 $_SESSION['item'][9]['trivia'] = "<p>My name is Twizel and I from Christchurch. I had a bit role in the Lord of the Rings trilogy, but so did everyone else. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can geek out on LOTR trivia for hours on end. </p>";
 $_SESSION['item'][9]['theme'] = 'cats';
 $_SESSION['item'][9]['filename'] = 'data/images/cats/christchurch.jpg';
