@@ -28,12 +28,12 @@ $_SESSION['item'][1]['theme'] = 'cats';
 $_SESSION['item'][1]['filename'] = 'data/images/cities/hobart.jpg';
 $_SESSION['item'][1]['rating'] = 0;
 
-$_SESSION['item'][2]['name'] = 'melbourne';
+$_SESSION['item'][2]['name'] = 'clancy';
 $_SESSION['item'][2]['rank'] = 3;
-$_SESSION['item'][2]['caption'] = 'Melbourne Cat';
+$_SESSION['item'][2]['caption'] = 'clancy';
 $_SESSION['item'][2]['trivia'] = "<p>My name is Rialto and my house is in Melbourne. I like to go to Philosophy Meetups. My favourite is Descates. He said: I think therefore I cat. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can workshop your existential mid-life crisis over some wine and cheese.</p>";
 $_SESSION['item'][2]['theme'] = 'cats';
-$_SESSION['item'][2]['filename'] = 'data/images/cats/melbourne.jpg';
+$_SESSION['item'][2]['filename'] = 'data/images/pets/clancy.jpg';
 $_SESSION['item'][2]['rating'] = 0;
 
 $_SESSION['item'][3]['name'] = 'auckland';
