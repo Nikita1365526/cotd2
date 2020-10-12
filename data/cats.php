@@ -20,12 +20,12 @@ $_SESSION['item'][0]['theme'] = 'cats';
 $_SESSION['item'][0]['filename'] = 'data/images/pets/billie.jpg';
 $_SESSION['item'][0]['rating'] = 0;
 
-$_SESSION['item'][1]['name'] = 'canberra';
+$_SESSION['item'][1]['name'] = 'city';
 $_SESSION['item'][1]['rank'] = 2;
 $_SESSION['item'][1]['caption'] = 'Canberra Cat';
 $_SESSION['item'][1]['trivia'] = "<p>My name is Burley and my post office box is in Canberra. The Government appointed me into a senior position at the Human Rights Commission. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can obsess over repealing section 18C together.</p>";
 $_SESSION['item'][1]['theme'] = 'cats';
-$_SESSION['item'][1]['filename'] = 'data/images/cats/canberra.jpg';
+$_SESSION['item'][1]['filename'] = 'data/images/cities/hobart.jpg';
 $_SESSION['item'][1]['rating'] = 0;
 
 $_SESSION['item'][2]['name'] = 'melbourne';
